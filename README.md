@@ -51,10 +51,8 @@
 ---
 
 ### 📌 Featured Projects
-
-- 🔹 [Python To-Do List CLI](https://github.com/pitambarpandey/todo-python)
-- 🔹 [C Parking Charge Calculator]([https://github.com/pitambarpandey/parking-fee-c](https://github.com/Pitambar004/C-project/blob/main/Parking%20project/parking.c))
-- 🔹 [Billing System Project](https://github.com/pitambarpandey/energy-billing-system)
+- 🔹 [C Parking Charge Calculator](https://github.com/Pitambar004/C-project/blob/main/Parking%20project/parking.c)
+- 🔹 [Bill Splitter](https://github.com/Pitambar004/C-project/tree/main/Bill%20calculation)
 
 ---
 
