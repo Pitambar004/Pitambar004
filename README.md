@@ -50,9 +50,7 @@
 
 ---
 
-### 📌 Featured Projects
-- 🔹 [C Parking Charge Calculator](https://github.com/Pitambar004/C-project/blob/main/Parking%20project/parking.c)
-- 🔹 [Bill Splitter](https://github.com/Pitambar004/C-project/tree/main/Bill%20calculation)
+
 
 ---
 
