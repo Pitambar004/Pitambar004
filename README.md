@@ -8,7 +8,6 @@
 ---
 
 🎓 Software Engineering student at **University of Wisconsin–Green Bay (UWGB)**  
-👨‍🏫 Teaching Assistant for **C Programming**  
 💼 **Program Director & CEO at Media and IT Hub Pvt. Ltd.** — Leading with vision and technical expertise  
 💬 Ask me about **Python, C, Git, problem solving, and startup building**  
 📫 Reach me at: **pandey.pitambar2004@gmail.com**  
